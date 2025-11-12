@@ -41,11 +41,11 @@ HTTP_PROXY: Optional[str] = None
 HTTPS_PROXY: Optional[str] = None
 
 # Set where you'd like the COOKIES to be stored. Can also use command-line argument --cookie-dir
-COOKIE_DIR: str = ""  # location to store session information
+COOKIE_DIR: str = "C:\\Users\\Admin\\Downloads\\bin"  # location to store session information
 
 # Other configurable variables
-APPLE_USERNAME: str = ""
-APPLE_PASSWORD: str = ""
+APPLE_USERNAME: str = "jason.titter@icloud.com"
+APPLE_PASSWORD: str = "Melbourne047!"
 CHINA: bool = False
 
 
